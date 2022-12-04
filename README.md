@@ -1,6 +1,6 @@
 # expt10
 
-A new Flutter project.
+A new Flutter project that sends local notification
 
 ## Getting Started
 
